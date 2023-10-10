@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace Calculos
 {
     //Implementa operações aritméticas
-    class static Aritmetica
+  
+    internal static class Aritmetica
     {
         //Tipo de conversão de temperatura a executar
         public enum ConversaoTemperatura
